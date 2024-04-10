@@ -1,5 +1,5 @@
 # test
 demo repo
 
-# New Section
-I added this section to demonstrate committing a change to a Read Me file in Github.
+# New Section - Barbershop Management Software
+Barbershop management software is a technological solution that has revolutionized the way barbershops are run and managed.
